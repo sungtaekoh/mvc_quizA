@@ -1,5 +1,8 @@
 package com.care.roote.member.dto;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class MemberDTO {
 	private String id;
 	private String pwd;
