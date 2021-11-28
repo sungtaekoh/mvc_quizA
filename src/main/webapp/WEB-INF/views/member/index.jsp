@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	index입니다
+ 	index입니다<br>
+ 	<a href = "">회원가입</a>
+ 	<a href = "">모든회원보기</a>
 </body>
 </html>
