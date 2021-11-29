@@ -8,11 +8,11 @@
 <meta charset="EUC-KR">
 <title>Insert title here</title>
 </head>
-<body>
- 	index입니다<br>
- 	<form action="result">
- 	<input type="text" name="id"><br>
- 	<input type="submit" value="전송">
- 	</form>
+<body>index.jsp<br>
+	<form action="result">
+		<input type="text" name="id"><br>
+		<input type="submit" value="전송"><br>
+	</form>
+
 </body>
 </html>
